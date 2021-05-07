@@ -1,0 +1,10 @@
+{
+  "name": "liqi.css",
+  "version": "1.0.0",
+  "description": "CSS File.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "liqi1997",
+  "license": "MIT"
+}
